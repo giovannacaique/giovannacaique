@@ -3,8 +3,8 @@
 <img width="800em" src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
 <div>
    <a href="https://github.com/giovannacaique">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannacaique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannacaique&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannacaique&show_icons=true&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannacaique&layout=compact&theme=dracula"/>
 </div>
 <img width="800em" src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
      
