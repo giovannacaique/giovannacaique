@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/giovannacaique/giovannacaique/blob/7bb4a9ac29cef6ac6f23a668b943f90d9f3e1e2f/Programming-cuate.png">
 
 <h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=993399&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Giovanna+Caique+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93;A+beginner+in+programming+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
