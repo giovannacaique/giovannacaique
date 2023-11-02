@@ -38,3 +38,10 @@ Passionate about arts and technology, some of my hobbies are games, watching and
 ## Learning :books:
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
+## My Contributions
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannacaique&repo=dio-lab-open-source&bg_color=000&border_color=36123c&show_icons=true&icon_color=FF00F6&title_color=FF00F6&text_color=FFF&border_radius=3)](https://github.com/giovannacaique/dio-lab-open-source.git)
+
+## My Favorite Projects
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannacaique&repo=szpc-projeto-the-last-of-us&bg_color=000&border_color=36123c&show_icons=true&icon_color=FF00F6&title_color=FF00F6&text_color=FFF&border_radius=3)](https://github.com/giovannacaique/szpc-projeto-the-last-of-us.git)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=giovannacaique&repo=naruto-calculadora&bg_color=000&border_color=36123c&show_icons=true&icon_color=FF00F6&title_color=FF00F6&text_color=FFF&border_radius=3)](https://github.com/giovannacaique/naruto-calculadora.git)
