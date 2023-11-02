@@ -13,7 +13,7 @@ Passionate about arts and technology, some of my hobbies are games, watching and
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/giovanna-c-2ab3a792)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/giovannacaique/)
-[![YouTube](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](https:mailto:giovannadcaique@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](https:mailto:giovannadcaique@gmail.com)
 
 <br>
 
